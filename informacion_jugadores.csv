@@ -1,26 +1,40 @@
 Nombre,Equipo,Liga,Fecha Fichaje,Contrato Hasta,Fecha Nacimiento,Lugar Nacimiento,Nacionalidad,Altura,Posición,Selección,Partidos Internacionales,Goles,Valor Mercado,Última Revisión,Pie,Agente,Proveedor
 Kylian Mbappé,Real Madrid,LaLiga,01/07/2024,30/06/2029,20/12/1998 (25),Paris,Francia,"1,78 m",Delantero centro,Francia,86,48,"180,00 mill. €",03/06/2024,derecho,Miembro de su familia,Nike
 Jude Bellingham,Real Madrid,LaLiga,01/07/2023,30/06/2029,29/06/2003 (21),Stourbridge,Inglaterra,"1,86 m",Mediocentro ofensivo,Inglaterra,36,5,"180,00 mill. €",07/06/2024,derecho,Agente no encontrado,adidas
-Vinicius Junior,Real Madrid,LaLiga,Fecha de fichaje no encontrada,Contrato no encontrado,12/07/2000 (24),Lugar de nacimiento no encontrado,Brasil,"1,76 m",Extremo izquierdo,Brasil,Partidos y goles no encontrados,Partidos y goles no encontrados,"180,00 mill. €",07/06/2024,derecho,Roc Nation Sports,Nike
+Vinicius Junior,Real Madrid,LaLiga,12/07/2018,30/06/2027,12/07/2000 (24),São Gonçalo,Brasil,"1,76 m",Extremo izquierdo,Brasil,35,5,"180,00 mill. €",07/06/2024,derecho,Roc Nation Sports,Nike
+Lamine Yamal,FC Barcelona,LaLiga,Fecha de fichaje no encontrada,Contrato no encontrado,13/07/2007 (17),Lugar de nacimiento no encontrado,España,"1,80 m",Extremo derecho,España,Partidos y goles no encontrados,Partidos y goles no encontrados,"120,00 mill. €",18/07/2024,izquierdo,Agente es conocido / jugador menor de 18 años,adidas
 Federico Valverde,Real Madrid,LaLiga,01/07/2018,30/06/2029,22/07/1998 (26),Montevideo,Uruguay,"1,82 m",Mediocentro,Uruguay,63,7,"120,00 mill. €",07/06/2024,derecho,Wasserman,Nike
-Lamine Yamal,FC Barcelona,LaLiga,01/07/2023,30/06/2026,13/07/2007 (17),Esplugues de ...,España,"1,80 m",Extremo derecho,España,16,3,"120,00 mill. €",18/07/2024,izquierdo,Agente es conocido / jugador menor de 18 años,adidas
 Rodrygo,Real Madrid,LaLiga,01/07/2019,30/06/2028,09/01/2001 (23),Osasco,Brasil,"1,74 m",Extremo derecho,Brasil,29,7,"110,00 mill. €",07/06/2024,derecho,Un1que Football,Nike
-Aurélien Tchouaméni,Real Madrid,LaLiga,01/07/2022,30/06/2028,27/01/2000 (24),Rouen,Francia,"1,88 m",Pivote,Francia,36,3,"100,00 mill. €",07/06/2024,derecho,ESN,Nike
 Eduardo Camavinga,Real Madrid,LaLiga,31/08/2021,30/06/2029,10/11/2002 (21),Cabinda,Francia,"1,82 m",Mediocentro,Francia,21,1,"100,00 mill. €",07/06/2024,izquierdo,CAA Stellar,Nike
-Gavi,FC Barcelona,LaLiga,01/07/2021,30/06/2026,05/08/2004 (20),Los Palacios y ...,España,"1,73 m",Mediocentro,España,27,5,"90,00 mill. €",07/06/2024,derecho,De la Peña & ...,Nike
+Aurélien Tchouaméni,Real Madrid,LaLiga,01/07/2022,30/06/2028,27/01/2000 (24),Rouen,Francia,"1,88 m",Pivote,Francia,36,3,"100,00 mill. €",07/06/2024,derecho,ESN,Nike
 Julián Alvarez,Atlético Madrid,LaLiga,12/08/2024,30/06/2030,31/01/2000 (24),Calchín,Argentina,"1,70 m",Delantero centro,Argentina,38,10,"90,00 mill. €",27/05/2024,derecho,Fernando Hidalgo,adidas
+Gavi,FC Barcelona,LaLiga,01/07/2021,30/06/2026,05/08/2004 (20),Los Palacios y ...,España,"1,73 m",Mediocentro,España,27,5,"90,00 mill. €",07/06/2024,derecho,De la Peña & ...,Nike
 Pedri,FC Barcelona,LaLiga,02/09/2019,30/06/2026,25/11/2002 (21),Tegueste,España,"1,74 m",Mediocentro,España,26,2,"80,00 mill. €",07/06/2024,derecho,LEADERBROCK,adidas
 Nico Williams,Athletic,LaLiga,01/07/2021,30/06/2027,12/07/2002 (22),Pamplona,España,"1,81 m",Extremo izquierdo,España,22,4,"70,00 mill. €",18/07/2024,derecho,Agente no encontrado,Nike
 Frenkie de Jong,FC Barcelona,LaLiga,01/07/2019,30/06/2026,12/05/1997 (27),Arkel,Países Bajos,"1,81 m",Mediocentro,Selección no encontrada,54,2,"70,00 mill. €",07/06/2024,derecho,HCM Sports ...,Nike
 Ronald Araujo,FC Barcelona,LaLiga,05/10/2020,30/06/2026,07/03/1999 (25),Rivera,Uruguay,"1,92 m",Defensa central,Uruguay,20,2,"70,00 mill. €",07/06/2024,derecho,Excellence Sport,Nike
+Éder Militão,Real Madrid,LaLiga,01/07/2019,30/06/2028,18/01/1998 (26),Sertãozinho,Brasil,"1,86 m",Defensa central,Brasil,35,2,"60,00 mill. €",07/06/2024,derecho,UJ Football Talent,adidas
 Endrick,Real Madrid,LaLiga,21/07/2024,30/06/2030,21/07/2006 (18),Taguatinga,Brasil,"1,73 m",Delantero centro,Brasil,11,3,"60,00 mill. €",17/06/2024,izquierdo,Roc Nation Sports,New Balance
 Dani Olmo,FC Barcelona,LaLiga,09/08/2024,30/06/2030,07/05/1998 (26),Terrassa,España,"1,79 m",Mediocentro ofensivo,España,40,11,"60,00 mill. €",18/07/2024,derecho,Niagara Sports ...,adidas
-Éder Militão,Real Madrid,LaLiga,01/07/2019,30/06/2028,18/01/1998 (26),Sertãozinho,Brasil,"1,86 m",Defensa central,Brasil,35,2,"60,00 mill. €",07/06/2024,derecho,UJ Football Talent,adidas
-Conor Gallagher,Atlético Madrid,LaLiga,21/08/2024,30/06/2029,06/02/2000 (24),Epsom,Inglaterra,"1,82 m",Mediocentro,Inglaterra,18,0,"50,00 mill. €",27/05/2024,derecho,Elite Management ...,Proveedor no encontrado
 Takefusa Kubo,Real Sociedad,LaLiga,19/07/2022,30/06/2029,04/06/2001 (23),"Kawasaki, Kanagawa",Japón,"1,73 m",Extremo derecho,Japón,37,5,"50,00 mill. €",07/06/2024,izquierdo,Roberto Tukada,Proveedor no encontrado
 Martín Zubimendi,Real Sociedad,LaLiga,10/09/2020,30/06/2027,02/02/1999 (25),Donostia-San ...,España,"1,81 m",Pivote,España,12,0,"50,00 mill. €",07/06/2024,derecho,IDUB GLOBAL,Proveedor no encontrado
 Raphinha,FC Barcelona,LaLiga,13/07/2022,30/06/2027,14/12/1996 (27),Porto Alegre,Brasil,"1,76 m",Extremo derecho,Brasil,27,7,"50,00 mill. €",07/06/2024,izquierdo,Agente no encontrado,adidas
+Conor Gallagher,Atlético Madrid,LaLiga,21/08/2024,30/06/2029,06/02/2000 (24),Epsom,Inglaterra,"1,82 m",Mediocentro,Inglaterra,18,0,"50,00 mill. €",27/05/2024,derecho,Elite Management ...,Proveedor no encontrado
+Mikel Oyarzabal,Real Sociedad,LaLiga,01/01/2016,30/06/2028,21/04/1997 (27),Eibar,España,"1,81 m",Delantero centro,España,38,12,"45,00 mill. €",07/06/2024,izquierdo,Agente no encontrado,Nike
 Arda Güler,Real Madrid,LaLiga,06/07/2023,30/06/2029,25/02/2005 (19),Ankara,Turquía,"1,75 m",Extremo derecho,Turquía,14,2,"45,00 mill. €",18/07/2024,izquierdo,Miembro de su familia,Nike
 Jules Koundé,FC Barcelona,LaLiga,28/07/2022,30/06/2027,12/11/1998 (25),Paris,Francia,"1,80 m",Lateral derecho,Francia,36,0,"45,00 mill. €",07/06/2024,derecho,ESN,adidas
 Giorgi Mamardashvili,Valencia CF,LaLiga,28/08/2024,30/06/2025,29/09/2000 (23),Tiflis,Georgia,"1,97 m",Portero,Georgia,23,0,"45,00 mill. €",18/07/2024,izquierdo,Free Football,Proveedor no encontrado
-Mikel Oyarzabal,Real Sociedad,LaLiga,01/01/2016,30/06/2028,21/04/1997 (27),Eibar,España,"1,81 m",Delantero centro,España,38,12,"45,00 mill. €",07/06/2024,izquierdo,Agente no encontrado,Nike
+Erling Haaland,Manchester City,Premier League,01/07/2022,30/06/2027,21/07/2000 (24),Leeds,Noruega,"1,95 m",Delantero centro,Noruega,35,32,"180,00 mill. €",27/05/2024,izquierdo,Rafaela Pimenta,Nike
+Phil Foden,Manchester City,Premier League,01/07/2017,30/06/2027,28/05/2000 (24),Stockport,Inglaterra,"1,71 m",Extremo derecho,Inglaterra,41,4,"150,00 mill. €",27/05/2024,izquierdo,Agente no encontrado,Nike
+Bukayo Saka,Arsenal,Premier League,01/07/2019,30/06/2027,05/09/2001 (23),London,Inglaterra,"1,78 m",Extremo derecho,Inglaterra,42,12,"140,00 mill. €",27/05/2024,izquierdo,Elite Project Group ...,New Balance
+Florian Wirtz,B. Leverkusen,Bundesliga,01/07/2020,30/06/2027,03/05/2003 (21),Pulheim,Alemania,"1,77 m",Mediocentro ofensivo,Alemania,25,4,"130,00 mill. €",29/05/2024,derecho,Miembro de su familia,adidas
+Jamal Musiala,Bayern Múnich,Bundesliga,01/07/2020,30/06/2026,26/02/2003 (21),Stuttgart,Alemania,"1,84 m",Mediocentro ofensivo,Alemania,36,6,"130,00 mill. €",18/07/2024,derecho,11WINS,Proveedor no encontrado
+Rodri,Manchester City,Premier League,04/07/2019,30/06/2027,22/06/1996 (28),Madrid,España,"1,91 m",Pivote,España,57,4,"130,00 mill. €",18/07/2024,derecho,Pablo Barquero,Nike
+Declan Rice,Arsenal,Premier League,15/07/2023,30/06/2028,14/01/1999 (25),London,Inglaterra,"1,88 m",Pivote,Inglaterra,60,4,"120,00 mill. €",27/05/2024,derecho,Miembro de su familia,adidas
+Lautaro Martínez,Inter,Serie A,04/07/2018,30/06/2029,22/08/1997 (27),Bahía Blanca,Argentina,"1,74 m",Delantero centro,Argentina,66,29,"110,00 mill. €",05/06/2024,derecho,Footfeel ISM,Nike
+Martin Ødegaard,Arsenal,Premier League,20/08/2021,30/06/2028,17/12/1998 (25),Drammen,Noruega,"1,78 m",Mediocentro ofensivo,Noruega,61,3,"110,00 mill. €",27/05/2024,izquierdo,Nordic Sky,Nike
+Victor Osimhen,Galatasaray,Süper Lig,04/09/2024,30/06/2025,29/12/1998 (25),Lagos,Nigeria,"1,86 m",Delantero centro,Nigeria,35,21,"100,00 mill. €",05/06/2024,derecho,Roberto Calenda,Proveedor no encontrado
+Harry Kane,Bayern Múnich,Bundesliga,12/08/2023,30/06/2027,28/07/1993 (31),London,Inglaterra,"1,88 m",Delantero centro,Inglaterra,100,68,"100,00 mill. €",29/05/2024,derecho,CK66,Skechers
+Rafael Leão,AC Milan,Serie A,01/08/2019,30/06/2028,10/06/1999 (25),Almada,Portugal,"1,88 m",Extremo izquierdo,Portugal,33,4,"90,00 mill. €",05/06/2024,derecho,Miembro de su familia,adidas
+Bruno Guimarães,Newcastle Utd.,Premier League,30/01/2022,30/06/2028,16/11/1997 (26),Rio de Janeiro,Brasil,"1,82 m",Pivote,Brasil,28,1,"85,00 mill. €",27/05/2024,derecho,Bertolucci Sports,adidas
+Cole Palmer,Chelsea,Premier League,01/09/2023,30/06/2033,06/05/2002 (22),Manchester,Inglaterra,"1,89 m",Mediocentro ofensivo,Inglaterra,9,2,"80,00 mill. €",27/05/2024,izquierdo,CAA Base Ltd,Nike
