@@ -32,15 +32,46 @@ rango_edad = st.slider('Selecciona el rango de edad:', min_value=18, max_value=4
 
 # Subtítulo para la selección de posición
 st.subheader('Selecciona una posición:')
-posiciones = ['Delantero', 'Centrocampista', 'Defensor', 'Portero']
+posiciones = [
+    'Defensa central',
+    'Mediocentro',
+    'Delantero centro',
+    'Portero',
+    'Extremo derecho',
+    'Extremo izquierdo',
+    'Lateral derecho',
+    'Lateral izquierdo',
+    'Pivote',
+    'Mediocentro ofensivo',
+    'Mediapunta',
+    'Interior derecho',
+    'Interior izquierdo'
+]
 posicion_seleccionada = st.selectbox('Elige una posición:', posiciones)
+
+# Seleccion proveedor 
+st.subheader('Selecciona un proveedor:')
+proveedor = [
+    'Proveedor no encontrado',
+    'Nike',
+    'adidas',
+    'Puma',
+    'New Balance',
+    'Mizuno',
+    'Under Armour',
+    'Joma',
+    'Sells',
+    'Lotto'
+]
+proveedor_seleccionado = st.selectbox('Elige un proveedor:', proveedor)
 
 # Filtrar el DataFrame según los valores seleccionados por el usuario
 df_filtrado = df[
     (df['Liga'] == liga_seleccionada) &
     (df['Edad'] >= rango_edad[0]) &
     (df['Edad'] <= rango_edad[1]) &
-    (df['Posición'] == posicion_seleccionada)
+    (df['Posicion'] == posicion_seleccionada) &
+    (df['Proveedor'] == proveedor_seleccionado)
 ]
 
 # Mostrar los resultados filtrados
