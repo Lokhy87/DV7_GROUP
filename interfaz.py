@@ -46,8 +46,6 @@ st.markdown(
     """,
     unsafe_allow_html=True)
 
-
-
 # Cargar el archivo CSV y mostrar un mensaje de error si no se puede cargar
 try:
     df = pd.read_csv('DB_Jugadores_1a_2da_Division.csv')
