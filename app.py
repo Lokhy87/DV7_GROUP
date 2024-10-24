@@ -7,43 +7,7 @@ from PIL import Image
 # STREAMLIT
 
 # Título de la aplicación
-#st.header('LaLiga y LaLiga2 - Base de datos')
-
-# Cargar la imagen usando st.image para asegurar que se muestre correctamente
-image = Image.open('C:\\Users\\abolt\\Documents\\GitHub\\DS_Online_Feb24\\DV7_GROUP\\imagenes\\portada.jpg')
-
-# Mostrar imagen con st.image
-st.image(image, use_column_width=True)
-st.markdown(
-    """
-    <style>
-    .container {
-        position: relative;
-        width: 100%;
-        height: 300px;
-        background-image: url('C:\\Users\\abolt\\Documents\\GitHub\\DS_Online_Feb24\\DV7_GROUP\\imagenes\\portada.jpg');
-        background-size: cover;
-        background-position: center;
-        text-align: center;
-        color: white;
-    }
-    .title {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        font-size: 2.5em;
-        font-weight: bold;
-        background-color: rgba(0, 0, 0, 0.5); /* Fondo oscuro semi-transparente detrás del texto */
-        padding: 10px;
-        border-radius: 10px;
-    }
-    </style>
-    <div class="container">
-        <div class="title">LaLiga y LaLiga2 - Base de datos</div>
-    </div>
-    """,
-    unsafe_allow_html=True)
+st.header('LaLiga y LaLiga2 - Base de datos')
 
 # Cargar el archivo CSV y mostrar un mensaje de error si no se puede cargar
 try:
