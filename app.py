@@ -11,7 +11,7 @@ st.header('LaLiga y LaLiga2 - Base de datos')
 
 # Cargar el archivo CSV y mostrar un mensaje de error si no se puede cargar
 try:
-    df = pd.read_csv('DB_Jugadores_1a_2da_Division.csv')
+    df = pd.read_csv('DB_Jugadores_columnasUtiles.csv')
     #st.write("Datos cargados correctamente.")
 except Exception as e:
     st.error(f"No se pudo cargar el archivo CSV. Error: {e}")
@@ -49,6 +49,16 @@ posiciones = [
 ]
 posicion_seleccionada = st.selectbox('Elige una posición:', posiciones)
 
+# Subtitulo para la seleccion de Valor Mercado
+st.subheader('Selecciona un rango de Valor Mercado:')
+valor_mercado_min = int(df['Valor Mercado'].min())
+valor_mercado_max = int(df['Valor Mercado'].max())
+rango_valor_mercado = st.slider('Selecciona el rango de Valor Mercado:', 
+                                min_value=valor_mercado_min, 
+                                max_value=valor_mercado_max, 
+                                value=(valor_mercado_min, valor_mercado_max), 
+                                step=100000)
+
 # Seleccion proveedor 
 st.subheader('Selecciona un proveedor:')
 proveedor = [
@@ -71,7 +81,9 @@ df_filtrado = df[
     (df['Edad'] >= rango_edad[0]) &
     (df['Edad'] <= rango_edad[1]) &
     (df['Posicion'] == posicion_seleccionada) &
-    (df['Proveedor'] == proveedor_seleccionado)
+    (df['Proveedor'] == proveedor_seleccionado) &
+    (df['Valor Mercado'] >= rango_valor_mercado[0]) &
+    (df['Valor Mercado'] <= rango_valor_mercado[1])
 ]
 
 # Mostrar los resultados filtrados
