@@ -331,7 +331,7 @@ agentes = [
     "AXISFUT",
     "H2 Agency"
 ]
-proveedor_seleccionado = st.selectbox('Elige un agente:', agentes)
+agente_seleccionado = st.selectbox('Elige un agente:', agentes)
 
 # Seleccion proveedor 
 st.subheader('Selecciona un proveedor:')
@@ -357,7 +357,8 @@ df_filtrado = df[
     # (df['Posicion'] == posicion_seleccionada) &
     (df['Proveedor'] == proveedor_seleccionado) &
     (df['Valor Mercado'] >= rango_valor_mercado[0]) &
-    (df['Valor Mercado'] <= rango_valor_mercado[1])
+    (df['Valor Mercado'] <= rango_valor_mercado[1]) &
+    (df['Agente'] == agente_seleccionado)
 ]
 
 # Mostrar los resultados filtrados
