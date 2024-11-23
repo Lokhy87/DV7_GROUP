@@ -10,19 +10,14 @@ from PIL import Image
 st.markdown("""
     <style>
         .title {
-            color: #1E90FF;
+            color: white;
             font-size: 40px;
             font-weight: bold;
             text-align: center;
-        }
-        .subtitle {
-            color: #FF6347;
-            font-size: 24px;
-            font-weight: bold;
-        }
-        .section {
-            background-color: #f2f2f2;
-            padding: 10px;
+            background-image: url('C:\Users\abolt\Documents\GitHub\DV7_GROUP\imagenes/portada';
+            background-size: cover;
+            background-position: center;
+            padding: 50px 0; /* Espaciado superior e inferior */
             border-radius: 10px;
         }
     </style>
