@@ -6,8 +6,30 @@ from PIL import Image
 
 # STREAMLIT
 
+# Personalización de CSS
+st.markdown("""
+    <style>
+        .title {
+            color: #1E90FF;
+            font-size: 40px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .subtitle {
+            color: #FF6347;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .section {
+            background-color: #f2f2f2;
+            padding: 10px;
+            border-radius: 10px;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
 # Título de la aplicación
-st.header('LaLiga y LaLiga2 - Base de datos')
+st.markdown('<p class="title">LaLiga y LaLiga2 - Base de Datos</p>', unsafe_allow_html=True)
 
 # Cargar el archivo CSV y mostrar un mensaje de error si no se puede cargar
 try:
