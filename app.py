@@ -14,7 +14,7 @@ st.markdown("""
             font-size: 40px;
             font-weight: bold;
             text-align: center;
-            background-image: url(r'C:\Users\abolt\Documents\GitHub\DV7_GROUP\imagenes\portada'); /* Usar cadena raw */
+            background-image: url('C:/Users/abolt/Documents/GitHub/DV7_GROUP/imagenes/portada');
             background-size: cover;
             background-position: center;
             padding: 50px 0; /* Espaciado superior e inferior */
